@@ -58,8 +58,8 @@ import java.io.BufferedOutputStream;
 import java.io.DataOutputStream;
 import java.io.LineNumberReader;
 import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import org.lukhnos.portmobile.file.Files;
+import org.lukhnos.portmobile.file.Paths;
 import java.util.Locale;
 import java.util.StringTokenizer;
 

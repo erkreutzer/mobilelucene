@@ -22,7 +22,7 @@ LUCENE_SRC_PATHS = (
     # './analysis/morfologik/src/java',
     # './analysis/phonetic/src/java',
     # './analysis/smartcn/src/java',
-    # './analysis/stempel/src/java',
+    './analysis/stempel/src/java',
     # './analysis/uima/src/java',
     # './backward-codecs/src/java',
     # './benchmark/src/java',
